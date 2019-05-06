@@ -1,0 +1,16 @@
+body {
+    margin-top: 20px;
+}
+.msg {
+    padding: 10px;
+    padding-left: 20px;
+    border: solid rgb(223, 223, 223) 1px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.btn-primary {
+    margin-top: 5px;
+}
+.chat {
+    margin-top: 10px;
+}
